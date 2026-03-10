@@ -1,0 +1,6 @@
+body {background-image: linear-gradient(to bottom,#D4D1A1, rgb(202, 171, 206)); min-height: 100vh; }
+img {display: block; margin: 0 auto}
+h1 {text-align: center; color: gray; font-size: 200%;}
+figcaption {text-align: center; color: gray; font-size: large;}
+h1:hover{color:white; scale:(1.10);}
+div {width: 33%;;  display:inline-block;}
